@@ -31,3 +31,25 @@ body .container{
     border: 1px solid;
     border-radius: 10px;
 }
+.pagination{
+    margin-top:20px ;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgrey;
+    justify-content: center;
+}
+.bottom{
+    padding-top: 10px;
+}
+.footer-list{
+    text-align: center;
+    font-size: 17px;
+}
+.footer-list>i{
+    margin: 20px 10px;
+}
+.end{
+    text-align: center;
+    margin-left: 150px;
+    margin-bottom: 70px;
+    font-size: 12px;
+}
