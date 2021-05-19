@@ -11,5 +11,23 @@ body .container{
 }
 .list-group-flush li{
     font-size: 16px;
-    
+}
+.row,.col-4,
+.col-2{
+    justify-content: center;
+}
+.card-body .card-text{
+    font-size: 10px;
+}
+.star{
+    color: orange;
+    font-size: 12px;
+}
+.card{
+    padding: 20px 15px;
+}
+.card-img-top{
+    padding: 70px;
+    border: 1px solid;
+    border-radius: 10px;
 }
