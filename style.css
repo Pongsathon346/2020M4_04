@@ -27,9 +27,8 @@ body .container{
     padding: 20px 15px;
 }
 .card-img-top{
-    padding: 70px;
-    border: 1px solid;
-    border-radius: 10px;
+   
+   
 }
 .pagination{
     margin-top:20px ;
@@ -52,4 +51,9 @@ body .container{
     margin-left: 150px;
     margin-bottom: 70px;
     font-size: 12px;
+}
+@media screen and (max-width:992px){
+    #sidemenu{
+        border-style: none;
+    }
 }
